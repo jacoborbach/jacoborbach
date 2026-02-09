@@ -8,7 +8,7 @@
 *   **[KaspaWoo](https://kaspawoo.com)** - The leading non-custodial Kaspa gateway for WooCommerce.
 *   **[Gmailytics](https://gmailytics.com)** - Turning your Gmail data into actionable insights.
 *   **[The Chat Widget](https://thechatwidget.com)** - Lightweight, privacy-focused customer communication.
-*   **[kaspa-simple-wallet](https://github.com/jacoborbach/kaspa-simple-wallet)** - Reliable Kaspa wallet generation SDK.
+*   **[kaspa-simple-wallet](https://www.npmjs.com/package/kaspa-simple-wallet)** - Reliable Kaspa wallet generation SDK for Node.js and Browsers.
 
 ### 📄 More About Me
 *   🌍 **Portfolio / CV:** [jacoborbach.com](https://jacoborbach.com)
