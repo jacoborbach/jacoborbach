@@ -11,7 +11,6 @@
 *   **[kaspa-simple-wallet](https://www.npmjs.com/package/kaspa-simple-wallet)** - Reliable Kaspa wallet generation SDK for Node.js and Browsers.
 
 ### 📄 More About Me
-*   👨‍💻 **Activity:** 980+ contributions this year.
 *   ⚡ **Focus:** High-performance web applications & Kaspa ecosystem growth.
 
 ---
